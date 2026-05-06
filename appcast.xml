@@ -6,16 +6,16 @@
     <description>Voz vira texto, instantâneo no Mac.</description>
     <language>pt-BR</language>
     <item>
-      <title>OMNI Voice 0.1.8</title>
-      <description><![CDATA[fix: tradução EN/PT robusta + paste à prova de popup + GPT-4.1 Mini padrão + vocab tech]]></description>
-      <pubDate>Wed, 06 May 2026 13:29:04 +0000</pubDate>
-      <sparkle:version>0.1.8</sparkle:version>
-      <sparkle:shortVersionString>0.1.8</sparkle:shortVersionString>
+      <title>OMNI Voice 0.1.9</title>
+      <description><![CDATA[hotfix: crash em fresh install (faltavam resource bundles SPM)]]></description>
+      <pubDate>Wed, 06 May 2026 13:44:24 +0000</pubDate>
+      <sparkle:version>0.1.9</sparkle:version>
+      <sparkle:shortVersionString>0.1.9</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <enclosure
-        url="https://github.com/InovacaoRD/omni_voice_dist/releases/download/v0.1.8/OMNI.Voice.dmg"
-        sparkle:edSignature="h223Rw8xnEjlXgzExcHPQDhoZ06i1NgvqIpPNhY3PFWWAWn+jcTfdTXh0pE/suFoGhx7v2oBq4x8YlAwDLDPCw=="
-        length="8022889"
+        url="https://github.com/InovacaoRD/omni_voice_dist/releases/download/v0.1.9/OMNI.Voice.dmg"
+        sparkle:edSignature="c312DWNB6C9S2sEE88VMjq8Wq9xEbde5ahCMRJi9mkygXp6OSWQ43VqAjOmaTtakNKOQI7K8wC9bQ9YICMttBg=="
+        length="8033237"
         type="application/octet-stream" />
     </item>
   </channel>
