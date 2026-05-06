@@ -6,16 +6,16 @@
     <description>Voz vira texto, instantâneo no Mac.</description>
     <language>pt-BR</language>
     <item>
-      <title>OMNI Voice 0.1.7</title>
-      <description><![CDATA[Filtra dispositivos virtuais (Aggregate, Microsoft Teams Audio, BlackHole, etc.) na lista de microfones — só aparecem mics físicos reais (Built-in, USB, Bluetooth).]]></description>
-      <pubDate>Wed, 06 May 2026 02:07:02 +0000</pubDate>
-      <sparkle:version>0.1.7</sparkle:version>
-      <sparkle:shortVersionString>0.1.7</sparkle:shortVersionString>
+      <title>OMNI Voice 0.1.8</title>
+      <description><![CDATA[fix: tradução EN/PT robusta + paste à prova de popup + GPT-4.1 Mini padrão + vocab tech]]></description>
+      <pubDate>Wed, 06 May 2026 13:29:04 +0000</pubDate>
+      <sparkle:version>0.1.8</sparkle:version>
+      <sparkle:shortVersionString>0.1.8</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <enclosure
-        url="https://github.com/InovacaoRD/omni_voice_dist/releases/download/v0.1.7/OMNI.Voice.dmg"
-        sparkle:edSignature="d08tI+xTf+pIBICvVIWNeqPUN+YLLHQV1Lnb81csXFllqnFiHyOqwtVzqCDG0kXlvEPrOd6kmsF0U6E++1i4DQ=="
-        length="6036440"
+        url="https://github.com/InovacaoRD/omni_voice_dist/releases/download/v0.1.8/OMNI.Voice.dmg"
+        sparkle:edSignature="h223Rw8xnEjlXgzExcHPQDhoZ06i1NgvqIpPNhY3PFWWAWn+jcTfdTXh0pE/suFoGhx7v2oBq4x8YlAwDLDPCw=="
+        length="8022889"
         type="application/octet-stream" />
     </item>
   </channel>
