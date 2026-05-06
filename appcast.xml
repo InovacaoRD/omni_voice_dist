@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>OMNI Voice</title>
+    <link>https://github.com/InovacaoRD/omni_voice_dist</link>
+    <description>Voz vira texto, instantâneo no Mac.</description>
+    <language>pt-BR</language>
+    <item>
+      <title>OMNI Voice 0.1.6</title>
+      <description><![CDATA[License key obrigatória na primeira abertura — sem chave válida o app não inicializa. Repo público de distribuição (omni_voice_dist) separado do source privado.]]></description>
+      <pubDate>Wed, 06 May 2026 01:17:12 +0000</pubDate>
+      <sparkle:version>0.1.6</sparkle:version>
+      <sparkle:shortVersionString>0.1.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/InovacaoRD/omni_voice_dist/releases/download/v0.1.6/OMNI.Voice.dmg"
+        sparkle:edSignature="+N+fWDSoC0cKEmHO85KBogbD4QrbngxYlC/ywDQA/Pb9CvjReZVmYLWUVcD9N5tuPYyQzp/LJdLE/Qp6/+uTAg=="
+        length="6043121"
+        type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
