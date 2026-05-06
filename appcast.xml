@@ -6,16 +6,16 @@
     <description>Voz vira texto, instantâneo no Mac.</description>
     <language>pt-BR</language>
     <item>
-      <title>OMNI Voice 0.1.11</title>
-      <description><![CDATA[hotfix: Modos crash em Macs sem .build/ path local (raiz do problema do Eberson)]]></description>
-      <pubDate>Wed, 06 May 2026 14:25:40 +0000</pubDate>
-      <sparkle:version>0.1.11</sparkle:version>
-      <sparkle:shortVersionString>0.1.11</sparkle:shortVersionString>
+      <title>OMNI Voice 0.1.12</title>
+      <description><![CDATA[hotfix: limpa cache do Sparkle ao atualizar (resolve 'updater error' ao auto-update)]]></description>
+      <pubDate>Wed, 06 May 2026 14:43:31 +0000</pubDate>
+      <sparkle:version>0.1.12</sparkle:version>
+      <sparkle:shortVersionString>0.1.12</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <enclosure
-        url="https://github.com/InovacaoRD/omni_voice_dist/releases/download/v0.1.11/OMNI.Voice.dmg"
-        sparkle:edSignature="4UWX7AbN9mOx+p0eUg+0DYhe8p9ET5vg2VQLYnfTxcBmtKj9Dg07NsG3oboFcxWaEZO8t3KfhSU3XsLnhEu/Ag=="
-        length="43768866"
+        url="https://github.com/InovacaoRD/omni_voice_dist/releases/download/v0.1.12/OMNI.Voice.dmg"
+        sparkle:edSignature="y62td/w5dlcoHgXjE1qHXb86xcL5N4LTcEL/rFC0grFUrE7Mt7qZbtG/k4mw/SULb2K73OXeEUb3eytOxBT0Aw=="
+        length="43769621"
         type="application/octet-stream" />
     </item>
   </channel>
