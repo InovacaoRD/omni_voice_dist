@@ -6,16 +6,16 @@
     <description>Voz vira texto, instantâneo no Mac.</description>
     <language>pt-BR</language>
     <item>
-      <title>OMNI Voice 0.1.17</title>
-      <description><![CDATA[feat: voice macros (#54) — diga 'OMNI traduzir' para trocar modo só naquela captura]]></description>
-      <pubDate>Wed, 06 May 2026 16:16:10 +0000</pubDate>
-      <sparkle:version>0.1.17</sparkle:version>
-      <sparkle:shortVersionString>0.1.17</sparkle:shortVersionString>
+      <title>OMNI Voice 0.1.18</title>
+      <description><![CDATA[feat: BYO API key (#53) — cole sua chave OpenRouter no Configuração para isolar custos]]></description>
+      <pubDate>Wed, 06 May 2026 16:28:58 +0000</pubDate>
+      <sparkle:version>0.1.18</sparkle:version>
+      <sparkle:shortVersionString>0.1.18</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <enclosure
-        url="https://github.com/InovacaoRD/omni_voice_dist/releases/download/v0.1.17/OMNI.Voice.dmg"
-        sparkle:edSignature="TAVsit/c1DkwDQRXcU+Gv7umIMoVOmDZ3CstvNa31aO/kYGSqegVeETgbhjC47i5jroRhAtxSAf2OhgHR4voDQ=="
-        length="43868820"
+        url="https://github.com/InovacaoRD/omni_voice_dist/releases/download/v0.1.18/OMNI.Voice.dmg"
+        sparkle:edSignature="UQ6XgrbG6ao5SQzvt8N/1EDaDCKxefGVwv05YFZL58SfaExBeKw7+lBpH4hDO5C9NvjHcIeNwjLQl9fIdr/lBA=="
+        length="44627633"
         type="application/octet-stream" />
     </item>
   </channel>
