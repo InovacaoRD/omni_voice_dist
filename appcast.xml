@@ -6,16 +6,16 @@
     <description>Voz vira texto, instantâneo no Mac.</description>
     <language>pt-BR</language>
     <item>
-      <title>OMNI Voice 0.1.16</title>
-      <description><![CDATA[fix: menu da barra de status sem lag (#71) — cache de devices CoreAudio]]></description>
-      <pubDate>Wed, 06 May 2026 15:32:48 +0000</pubDate>
-      <sparkle:version>0.1.16</sparkle:version>
-      <sparkle:shortVersionString>0.1.16</sparkle:shortVersionString>
+      <title>OMNI Voice 0.1.17</title>
+      <description><![CDATA[feat: voice macros (#54) — diga 'OMNI traduzir' para trocar modo só naquela captura]]></description>
+      <pubDate>Wed, 06 May 2026 16:16:10 +0000</pubDate>
+      <sparkle:version>0.1.17</sparkle:version>
+      <sparkle:shortVersionString>0.1.17</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <enclosure
-        url="https://github.com/InovacaoRD/omni_voice_dist/releases/download/v0.1.16/OMNI.Voice.dmg"
-        sparkle:edSignature="KuXRKAZrxl6mmriUG/PjyVUajraboMEMKZMht4pPC6/AdKa9CM4puNMyaVIDKCMpvA8X45SefXVxC8cM33ZCCA=="
-        length="43824316"
+        url="https://github.com/InovacaoRD/omni_voice_dist/releases/download/v0.1.17/OMNI.Voice.dmg"
+        sparkle:edSignature="TAVsit/c1DkwDQRXcU+Gv7umIMoVOmDZ3CstvNa31aO/kYGSqegVeETgbhjC47i5jroRhAtxSAf2OhgHR4voDQ=="
+        length="43868820"
         type="application/octet-stream" />
     </item>
   </channel>
