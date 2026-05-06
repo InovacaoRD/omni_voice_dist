@@ -6,16 +6,16 @@
     <description>Voz vira texto, instantâneo no Mac.</description>
     <language>pt-BR</language>
     <item>
-      <title>OMNI Voice 0.1.12</title>
-      <description><![CDATA[hotfix: limpa cache do Sparkle ao atualizar (resolve 'updater error' ao auto-update)]]></description>
-      <pubDate>Wed, 06 May 2026 14:43:31 +0000</pubDate>
-      <sparkle:version>0.1.12</sparkle:version>
-      <sparkle:shortVersionString>0.1.12</sparkle:shortVersionString>
+      <title>OMNI Voice 0.1.13</title>
+      <description><![CDATA[feat: efeitos sonoros funcionando + persistência das preferências de som (#49 fase 1)]]></description>
+      <pubDate>Wed, 06 May 2026 15:15:46 +0000</pubDate>
+      <sparkle:version>0.1.13</sparkle:version>
+      <sparkle:shortVersionString>0.1.13</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <enclosure
-        url="https://github.com/InovacaoRD/omni_voice_dist/releases/download/v0.1.12/OMNI.Voice.dmg"
-        sparkle:edSignature="y62td/w5dlcoHgXjE1qHXb86xcL5N4LTcEL/rFC0grFUrE7Mt7qZbtG/k4mw/SULb2K73OXeEUb3eytOxBT0Aw=="
-        length="43769621"
+        url="https://github.com/InovacaoRD/omni_voice_dist/releases/download/v0.1.13/OMNI.Voice.dmg"
+        sparkle:edSignature="P6B9GNXODqaXiC1X+vYg9Br8y5tqqh2itxdlPZbBy2VAbATYYCbdeEeMZNVza/+MZGr11NU+K+iDo6MOkD2IBg=="
+        length="43807849"
         type="application/octet-stream" />
     </item>
   </channel>
