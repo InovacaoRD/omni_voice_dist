@@ -6,16 +6,16 @@
     <description>Voz vira texto, instantâneo no Mac.</description>
     <language>pt-BR</language>
     <item>
-      <title>OMNI Voice 0.1.28</title>
-      <description><![CDATA[perf+ux: Histórico mais fluido + filtros fixos no scroll]]></description>
-      <pubDate>Thu, 07 May 2026 17:34:31 +0000</pubDate>
-      <sparkle:version>0.1.28</sparkle:version>
-      <sparkle:shortVersionString>0.1.28</sparkle:shortVersionString>
+      <title>OMNI Voice 0.1.29</title>
+      <description><![CDATA[ux: cabeçalho de cada tab fixo no topo ao scrollar (TabPage)]]></description>
+      <pubDate>Thu, 07 May 2026 17:40:47 +0000</pubDate>
+      <sparkle:version>0.1.29</sparkle:version>
+      <sparkle:shortVersionString>0.1.29</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <enclosure
-        url="https://github.com/InovacaoRD/omni_voice_dist/releases/download/v0.1.28/OMNI.Voice.dmg"
-        sparkle:edSignature="JYVU9xuT83tFne59nemCT3r7Hphl5jtmg7tFMDkSug033UqVmHTMcF2KW74GSUiuobVsCxkJKmPcpZYkZnjuBA=="
-        length="26721106"
+        url="https://github.com/InovacaoRD/omni_voice_dist/releases/download/v0.1.29/OMNI.Voice.dmg"
+        sparkle:edSignature="msatJAm2vwO7c2AUFKWdhqGtqfR7n+Ppfei/MsNFDRK+F5cqdoGeahJ3CHEkooLxm9NHVVYOZbF52AUbKRJyBA=="
+        length="26724304"
         type="application/octet-stream" />
     </item>
   </channel>
