@@ -6,16 +6,16 @@
     <description>Voz vira texto, instantâneo no Mac.</description>
     <language>pt-BR</language>
     <item>
-      <title>OMNI Voice 0.1.23</title>
-      <description><![CDATA[feat: Whisper Small (offline) substitui Base como Standard — qualidade ótima em pt-BR]]></description>
-      <pubDate>Wed, 06 May 2026 20:17:34 +0000</pubDate>
-      <sparkle:version>0.1.23</sparkle:version>
-      <sparkle:shortVersionString>0.1.23</sparkle:shortVersionString>
+      <title>OMNI Voice 0.1.24</title>
+      <description><![CDATA[feat: Gemma 4 E2B local via llama.cpp embarcado (#75) — pipeline 100% offline opcional]]></description>
+      <pubDate>Thu, 07 May 2026 16:12:45 +0000</pubDate>
+      <sparkle:version>0.1.24</sparkle:version>
+      <sparkle:shortVersionString>0.1.24</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <enclosure
-        url="https://github.com/InovacaoRD/omni_voice_dist/releases/download/v0.1.23/OMNI.Voice.dmg"
-        sparkle:edSignature="yTulVsA+XTyDLdrLTywyxtfVo/bPYlA8F09Bir+T4o8NTnP2ubhrD2b1spy1BvawclvSVMjVuGq7eu9wVWQBCA=="
-        length="7967597"
+        url="https://github.com/InovacaoRD/omni_voice_dist/releases/download/v0.1.24/OMNI.Voice.dmg"
+        sparkle:edSignature="bPt9mQCSjcf+UYzXQdkxhn/ZVnXjgT88fUo9xUBahS0yHn3ZHCy4XgymZHdT3GfMDZGGqBfsT0pHiXIGhod9Aw=="
+        length="26729880"
         type="application/octet-stream" />
     </item>
   </channel>
