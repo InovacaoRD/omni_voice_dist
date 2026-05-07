@@ -6,16 +6,16 @@
     <description>Voz vira texto, instantâneo no Mac.</description>
     <language>pt-BR</language>
     <item>
-      <title>OMNI Voice 0.1.24</title>
-      <description><![CDATA[feat: Gemma 4 E2B local via llama.cpp embarcado (#75) — pipeline 100% offline opcional]]></description>
-      <pubDate>Thu, 07 May 2026 16:12:45 +0000</pubDate>
-      <sparkle:version>0.1.24</sparkle:version>
-      <sparkle:shortVersionString>0.1.24</sparkle:shortVersionString>
+      <title>OMNI Voice 0.1.25</title>
+      <description><![CDATA[ux: Biblioteca só mostra modelos offline reais (cloud fica no editor de Modos)]]></description>
+      <pubDate>Thu, 07 May 2026 16:27:29 +0000</pubDate>
+      <sparkle:version>0.1.25</sparkle:version>
+      <sparkle:shortVersionString>0.1.25</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <enclosure
-        url="https://github.com/InovacaoRD/omni_voice_dist/releases/download/v0.1.24/OMNI.Voice.dmg"
-        sparkle:edSignature="bPt9mQCSjcf+UYzXQdkxhn/ZVnXjgT88fUo9xUBahS0yHn3ZHCy4XgymZHdT3GfMDZGGqBfsT0pHiXIGhod9Aw=="
-        length="26729880"
+        url="https://github.com/InovacaoRD/omni_voice_dist/releases/download/v0.1.25/OMNI.Voice.dmg"
+        sparkle:edSignature="DELfVQYLxSlF11nmfIh+G0cxYrdDBU5tjM4dK7H8THX5yXk9jovP0kncpMwmhP3lMh4oE2yKrzljyCerpI9xCw=="
+        length="26724564"
         type="application/octet-stream" />
     </item>
   </channel>
