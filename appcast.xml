@@ -6,16 +6,16 @@
     <description>Voz vira texto, instantâneo no Mac.</description>
     <language>pt-BR</language>
     <item>
-      <title>OMNI Voice 0.1.32</title>
-      <description><![CDATA[fix: WAV canônico Int16 interleaved (resolve 'sem trilha de áudio')]]></description>
-      <pubDate>Thu, 07 May 2026 18:15:15 +0000</pubDate>
-      <sparkle:version>0.1.32</sparkle:version>
-      <sparkle:shortVersionString>0.1.32</sparkle:shortVersionString>
+      <title>OMNI Voice 0.1.33</title>
+      <description><![CDATA[Hotkey 'colar última transcrição' como fallback de auto-cola (PR #77). Configure em Settings > Modos > Atalhos.]]></description>
+      <pubDate>Mon, 11 May 2026 16:00:12 +0000</pubDate>
+      <sparkle:version>0.1.33</sparkle:version>
+      <sparkle:shortVersionString>0.1.33</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <enclosure
-        url="https://github.com/InovacaoRD/omni_voice_dist/releases/download/v0.1.32/OMNI.Voice.dmg"
-        sparkle:edSignature="G3vRD9CgFwssq4li8gyCQyQVnM+53Zln/Q0s348zDJggCdWmeAZe9PsS7uJOw2/luCZfp2z9t4pIL3LxgxZkAw=="
-        length="26722106"
+        url="https://github.com/InovacaoRD/omni_voice_dist/releases/download/v0.1.33/OMNI.Voice.dmg"
+        sparkle:edSignature="rZDZ4ucqdPwGKp1ZO4OM1JxmATOn4cmosXUUklO0qy86mkZZRy0t9W5t+KMf0atd6WITIkq+oY2eNnIIXhQADQ=="
+        length="27136298"
         type="application/octet-stream" />
     </item>
   </channel>
