@@ -6,16 +6,16 @@
     <description>Voz vira texto, instantâneo no Mac.</description>
     <language>pt-BR</language>
     <item>
-      <title>OMNI Voice 0.1.34</title>
-      <description><![CDATA[Nova feature: Ler seleção em voz alta (Mac TTS + ElevenLabs)]]></description>
-      <pubDate>Tue, 12 May 2026 12:56:49 +0000</pubDate>
-      <sparkle:version>0.1.34</sparkle:version>
-      <sparkle:shortVersionString>0.1.34</sparkle:shortVersionString>
+      <title>OMNI Voice 0.1.35</title>
+      <description><![CDATA[Fix: leitura de seleção via menu agora funciona corretamente; nova aba Leitura nas Settings para configurar ElevenLabs]]></description>
+      <pubDate>Tue, 12 May 2026 13:56:23 +0000</pubDate>
+      <sparkle:version>0.1.35</sparkle:version>
+      <sparkle:shortVersionString>0.1.35</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <enclosure
-        url="https://github.com/InovacaoRD/omni_voice_dist/releases/download/v0.1.34/OMNI.Voice.dmg"
-        sparkle:edSignature="C1m8qk06cNBEKwtEjA9CuHATlYDVLmklmzr6MVMThBkSWQF4wGcSwULMutPkwPm7mG/Sm3UMYnlkDbyLroTODA=="
-        length="27156280"
+        url="https://github.com/InovacaoRD/omni_voice_dist/releases/download/v0.1.35/OMNI.Voice.dmg"
+        sparkle:edSignature="i/Im1g3qMJuegZ/rMBtTjYFm5FElCuCYlxcJbEzshAmo66JEr88/gZ/uy+TLPdPa2FRoEmI5DQ4AHaSgbIt1CQ=="
+        length="27175039"
         type="application/octet-stream" />
     </item>
   </channel>
