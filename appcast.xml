@@ -6,16 +6,16 @@
     <description>Voz vira texto, instantâneo no Mac.</description>
     <language>pt-BR</language>
     <item>
-      <title>OMNI Voice 0.1.36</title>
-      <description><![CDATA[Fix: atalho aparece ao lado do menu, ícone muda durante leitura, 'Parar leitura' no menu e leitura via menu funcionando corretamente]]></description>
-      <pubDate>Tue, 12 May 2026 14:28:49 +0000</pubDate>
-      <sparkle:version>0.1.36</sparkle:version>
-      <sparkle:shortVersionString>0.1.36</sparkle:shortVersionString>
+      <title>OMNI Voice 0.1.37</title>
+      <description><![CDATA[Voz do sistema (Siri via say), ElevenLabs com diagnóstico, paste sem clipboard via Accessibility API]]></description>
+      <pubDate>Tue, 12 May 2026 17:58:01 +0000</pubDate>
+      <sparkle:version>0.1.37</sparkle:version>
+      <sparkle:shortVersionString>0.1.37</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <enclosure
-        url="https://github.com/InovacaoRD/omni_voice_dist/releases/download/v0.1.36/OMNI.Voice.dmg"
-        sparkle:edSignature="J+oeB6hIhVIy0FozQimq7Y3L4CufgRvIFm+2bISyBjLOzLqCvidLLMAFN+lirgiB6bSbozfaLoJNb1zo6AnHCw=="
-        length="27176315"
+        url="https://github.com/InovacaoRD/omni_voice_dist/releases/download/v0.1.37/OMNI.Voice.dmg"
+        sparkle:edSignature="ztx8D3XoHO1kDTKz/V4yz3Z5BYuTzzCknRbmtTB6KbspEyM0Kybafsc+eQWueEuhXgRoIb2A3ATy0WxeUoNCDQ=="
+        length="27222057"
         type="application/octet-stream" />
     </item>
   </channel>
