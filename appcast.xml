@@ -6,16 +6,16 @@
     <description>Voz vira texto, instantâneo no Mac.</description>
     <language>pt-BR</language>
     <item>
-      <title>OMNI Voice 0.1.39</title>
-      <description><![CDATA[Fix crítico: transcrição voltando a colar corretamente nos apps]]></description>
-      <pubDate>Wed, 13 May 2026 12:53:26 +0000</pubDate>
-      <sparkle:version>0.1.39</sparkle:version>
-      <sparkle:shortVersionString>0.1.39</sparkle:shortVersionString>
+      <title>OMNI Voice 0.1.40</title>
+      <description><![CDATA[Persistência de modos preservada, pipeline de áudio nativa (fim do erro -11800), filtro de alucinações Whisper estendido, novos modelos LLM (GPT-4.1, GPT-4o, Claude Sonnet 4.5, Gemini 2.5 Pro, Llama 3.3 70B, Qwen 2.5 72B, Mistral Large), modelos locais não baixados ocultos no picker.]]></description>
+      <pubDate>Sat, 16 May 2026 13:52:41 +0000</pubDate>
+      <sparkle:version>0.1.40</sparkle:version>
+      <sparkle:shortVersionString>0.1.40</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <enclosure
-        url="https://github.com/InovacaoRD/omni_voice_dist/releases/download/v0.1.39/OMNI.Voice.dmg"
-        sparkle:edSignature="2BcVYOFQXeE7cvNHdrpurLQYqg9kc8b6iOpwL9dZcfBIVXL72s9ZVXpVcqcupZCj6Ov9mnGq4QpddBjz80tcCA=="
-        length="27244801"
+        url="https://github.com/InovacaoRD/omni_voice_dist/releases/download/v0.1.40/OMNI.Voice.dmg"
+        sparkle:edSignature="WJU3m3d2BjpsEmwAN4SnW3Hc/Pl3gSAiinaQU2T5yxcW9y67i6f/wJcio7oabnphwJ/e2j7JhoQFwKEDVkhnDw=="
+        length="27246303"
         type="application/octet-stream" />
     </item>
   </channel>
