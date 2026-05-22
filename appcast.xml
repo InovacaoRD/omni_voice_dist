@@ -6,16 +6,16 @@
     <description>Voz vira texto, instantâneo no Mac.</description>
     <language>pt-BR</language>
     <item>
-      <title>OMNI Voice 0.1.42</title>
-      <description><![CDATA[Persistência de modos, novos modelos OpenRouter (GPT-4.1, Claude Sonnet 4.5, Gemini 2.5 Pro, Llama 3.3 70B, Qwen 2.5 72B, Mistral Large), modelos locais escondidos quando não baixados, filtro de alucinações Whisper estendido, HUD de erro com domínio/código. Pipeline de áudio intocada — mantém qualidade da v0.1.41.]]></description>
-      <pubDate>Sat, 16 May 2026 16:03:27 +0000</pubDate>
-      <sparkle:version>0.1.42</sparkle:version>
-      <sparkle:shortVersionString>0.1.42</sparkle:shortVersionString>
+      <title>OMNI Voice 0.1.43</title>
+      <description><![CDATA[Editor de prompt LLM, vocabulário persistente, reconhecimento de termos técnicos melhorado e remoção da sombra do HUD]]></description>
+      <pubDate>Fri, 22 May 2026 15:36:05 +0000</pubDate>
+      <sparkle:version>0.1.43</sparkle:version>
+      <sparkle:shortVersionString>0.1.43</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <enclosure
-        url="https://github.com/InovacaoRD/omni_voice_dist/releases/download/v0.1.42/OMNI.Voice.dmg"
-        sparkle:edSignature="b+IB9OWLzPOl2TmCIM6YsIiwBskkHLtnzl52ZXTvCMhx0xjiibrxNNK14HRooobKROGwtfd2wc9gfQ3pFoyIDQ=="
-        length="27244974"
+        url="https://github.com/InovacaoRD/omni_voice_dist/releases/download/v0.1.43/OMNI.Voice.dmg"
+        sparkle:edSignature="qGwzUzai1llGDYFdwtsOTetaSUNjLl8irB5uzDB7fAahA2MUBjHSAal+RPMIC7yxeSifFBTwpm1SNZw95CJpDQ=="
+        length="27261995"
         type="application/octet-stream" />
     </item>
   </channel>
