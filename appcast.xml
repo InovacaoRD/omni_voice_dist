@@ -6,16 +6,16 @@
     <description>Voz vira texto, instantâneo no Mac.</description>
     <language>pt-BR</language>
     <item>
-      <title>OMNI Voice 0.1.43</title>
-      <description><![CDATA[Editor de prompt LLM, vocabulário persistente, reconhecimento de termos técnicos melhorado e remoção da sombra do HUD]]></description>
-      <pubDate>Fri, 22 May 2026 15:36:05 +0000</pubDate>
-      <sparkle:version>0.1.43</sparkle:version>
-      <sparkle:shortVersionString>0.1.43</sparkle:shortVersionString>
+      <title>OMNI Voice 0.1.44</title>
+      <description><![CDATA[Equalizador de voz em tempo real no HUD, pausa de mídia durante gravação, layout de Vocabulário em lista e prompt de Ditado mais preciso]]></description>
+      <pubDate>Sat, 23 May 2026 16:34:04 +0000</pubDate>
+      <sparkle:version>0.1.44</sparkle:version>
+      <sparkle:shortVersionString>0.1.44</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <enclosure
-        url="https://github.com/InovacaoRD/omni_voice_dist/releases/download/v0.1.43/OMNI.Voice.dmg"
-        sparkle:edSignature="qGwzUzai1llGDYFdwtsOTetaSUNjLl8irB5uzDB7fAahA2MUBjHSAal+RPMIC7yxeSifFBTwpm1SNZw95CJpDQ=="
-        length="27261995"
+        url="https://github.com/InovacaoRD/omni_voice_dist/releases/download/v0.1.44/OMNI.Voice.dmg"
+        sparkle:edSignature="BO4sZRogcbL9QXytNNOCxyj14wRlm9xrolA/g7l34aph36ol6OJb6yNYkdix8NLDcS4T8WLv753Gz7jzFAhcBg=="
+        length="27253276"
         type="application/octet-stream" />
     </item>
   </channel>
