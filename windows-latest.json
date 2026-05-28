@@ -1,11 +1,11 @@
 {
-  "version": "0.1.57",
-  "notes": "Debug: logs em arquivo + startup logs.",
-  "pub_date": "2026-05-28T17:18:26Z",
+  "version": "0.1.58",
+  "notes": "Fix definitivo dos 2 ícones na tray (ID fixo no TrayIconBuilder).",
+  "pub_date": "2026-05-28T18:12:06Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK2M0eUx3UlJERnJpVDFnWXNCalBUOHFHd3NaNEJUSmk1YXBSMGNTWjgvbTM5L0JLRWJ5NmtUNzhXbE5STysydU41bVE4OVFsTk1zbThvUHdrVG1WaDgrdWZ1elVlRXdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5OTg4NjgyCWZpbGU6T01OSSBWb2ljZV8wLjEuNTdfeDY0LXNldHVwLmV4ZQpjUEdMQWplRFJEdFgzTlBoKzZVaSswbllVT2R2YUZVNXpZSGFPNmI3bEw4OHRTTVJCb2tmVFVqMm5uVDhZZUhOZG5TdHZWdGlUbTZ5TnVqd1ZaSDdEUT09Cg==",
-      "url": "https://github.com/InovacaoRD/omni_voice_dist/releases/download/v0.1.57/OMNI.Voice_0.1.57_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK2M0eUx3UlJERmpjMFI0aDJ1dzRRaWxFZmJWY2djYlVYR1N4QTh6MFNNUWcvSVhtc3pFSjFUNG5VMzBURytlb2NobjRPOVd0TldreThqazZRb3BKZU5xUzhjZnNBOEE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5OTkxOTA1CWZpbGU6T01OSSBWb2ljZV8wLjEuNThfeDY0LXNldHVwLmV4ZQpkVVJZT0orL2QyU1FNM0lPYmNYbUN5dkd4ZEpibkJ0KzRqbEUwcXZMQ1A1NU9pKzVYQSszNUxXZGJORDdlMTRsWDlwMWtuTDNiZ2dyZHM3alNoZ0ZCQT09Cg==",
+      "url": "https://github.com/InovacaoRD/omni_voice_dist/releases/download/v0.1.58/OMNI.Voice_0.1.58_x64-setup.exe"
     }
   }
 }
