@@ -6,16 +6,16 @@
     <description>Voz vira texto, instantâneo no Mac.</description>
     <language>pt-BR</language>
     <item>
-      <title>OMNI Voice 0.1.48</title>
-      <description><![CDATA[Aba Logs no Settings — registra falhas estruturadas com botão de abrir log completo]]></description>
-      <pubDate>Thu, 28 May 2026 13:59:15 +0000</pubDate>
-      <sparkle:version>0.1.48</sparkle:version>
-      <sparkle:shortVersionString>0.1.48</sparkle:shortVersionString>
+      <title>OMNI Voice 0.1.49</title>
+      <description><![CDATA[Picker STT enxuto: só modelos dedicados (Whisper, GPT-4o Transcribe, Voxtral)]]></description>
+      <pubDate>Thu, 28 May 2026 14:04:22 +0000</pubDate>
+      <sparkle:version>0.1.49</sparkle:version>
+      <sparkle:shortVersionString>0.1.49</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <enclosure
-        url="https://github.com/InovacaoRD/omni_voice_dist/releases/download/v0.1.48/OMNI.Voice.dmg"
-        sparkle:edSignature="cAXHKKgSyExVbo44LvHVV9t4rzaQ034bUAHq6ZGCS/7iE/95018vFhN9tKsmWxXNiGxlN1PQGpj4Yn8Ea7UWAQ=="
-        length="27319366"
+        url="https://github.com/InovacaoRD/omni_voice_dist/releases/download/v0.1.49/OMNI.Voice.dmg"
+        sparkle:edSignature="E+3gqWvQRHHOo7MItnXYh3go1UXH7ZWtD2E3Hdu6SYjBFR2Z/RJBLXXSF+4anPMUb1nLSx04ciPNOR1WSQB5CA=="
+        length="27319846"
         type="application/octet-stream" />
     </item>
   </channel>
