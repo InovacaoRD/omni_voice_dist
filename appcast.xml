@@ -6,16 +6,16 @@
     <description>Voz vira texto, instantâneo no Mac.</description>
     <language>pt-BR</language>
     <item>
-      <title>OMNI Voice 0.1.50</title>
-      <description><![CDATA[Whisper Large V3 Turbo (Groq) como STT padrão — 5× mais rápido]]></description>
-      <pubDate>Thu, 28 May 2026 14:15:53 +0000</pubDate>
-      <sparkle:version>0.1.50</sparkle:version>
-      <sparkle:shortVersionString>0.1.50</sparkle:shortVersionString>
+      <title>OMNI Voice 0.1.60</title>
+      <description><![CDATA[Agora basta a licença — sem configurar chave de API; a autenticação cloud é automática. Correção: a transcrição volta a colar no app onde a gravação começou, mesmo alternando entre apps durante a gravação.]]></description>
+      <pubDate>Fri, 26 Jun 2026 17:54:07 +0000</pubDate>
+      <sparkle:version>0.1.60</sparkle:version>
+      <sparkle:shortVersionString>0.1.60</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <enclosure
-        url="https://github.com/InovacaoRD/omni_voice_dist/releases/download/v0.1.50/OMNI.Voice.dmg"
-        sparkle:edSignature="AC06WHxOqRH+fWJ9oYym58ohi04EWLDmgSjZS2a6oJIPkEQETmMgn9lAf8naG46uWdyKdC01WWBuUZZCUGxpAA=="
-        length="27319465"
+        url="https://github.com/InovacaoRD/omni_voice_dist/releases/download/v0.1.60/OMNI.Voice.dmg"
+        sparkle:edSignature="LVnSGlCkYTa0vI1/3jNyMrgelRzuUw8l+5g3iUrAVvd9U2Ic2L4/lA12UWFwUblyM7B9pBLuTKYVvniNchfKAg=="
+        length="27240428"
         type="application/octet-stream" />
     </item>
   </channel>
