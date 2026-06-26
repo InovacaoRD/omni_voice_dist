@@ -6,16 +6,16 @@
     <description>Voz vira texto, instantâneo no Mac.</description>
     <language>pt-BR</language>
     <item>
-      <title>OMNI Voice 0.1.60</title>
-      <description><![CDATA[Agora basta a licença — sem configurar chave de API; a autenticação cloud é automática. Correção: a transcrição volta a colar no app onde a gravação começou, mesmo alternando entre apps durante a gravação.]]></description>
-      <pubDate>Fri, 26 Jun 2026 17:54:07 +0000</pubDate>
-      <sparkle:version>0.1.60</sparkle:version>
-      <sparkle:shortVersionString>0.1.60</sparkle:shortVersionString>
+      <title>OMNI Voice 0.1.61</title>
+      <description><![CDATA[Correção: restaura o equalizador de voz em tempo real no HUD (regressão da 0.1.60). Mantém: autenticação só por licença (sem chave de API) e a correção do paste no app onde a gravação começou.]]></description>
+      <pubDate>Fri, 26 Jun 2026 20:06:00 +0000</pubDate>
+      <sparkle:version>0.1.61</sparkle:version>
+      <sparkle:shortVersionString>0.1.61</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <enclosure
-        url="https://github.com/InovacaoRD/omni_voice_dist/releases/download/v0.1.60/OMNI.Voice.dmg"
-        sparkle:edSignature="LVnSGlCkYTa0vI1/3jNyMrgelRzuUw8l+5g3iUrAVvd9U2Ic2L4/lA12UWFwUblyM7B9pBLuTKYVvniNchfKAg=="
-        length="27240428"
+        url="https://github.com/InovacaoRD/omni_voice_dist/releases/download/v0.1.61/OMNI.Voice.dmg"
+        sparkle:edSignature="zC9/NzbprGC10RiL/sw0SgmiJjraQ6h9YPlkFZaEThPJmOBDIRGqJEly97KB8iUVTZq69yGSNn5nNCXoo66JCw=="
+        length="27298285"
         type="application/octet-stream" />
     </item>
   </channel>
