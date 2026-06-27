@@ -6,16 +6,16 @@
     <description>Voz vira texto, instantâneo no Mac.</description>
     <language>pt-BR</language>
     <item>
-      <title>OMNI Voice 0.1.62</title>
-      <description><![CDATA[Correção: a transcrição volta a colar automaticamente na janela ativa, inclusive em apps web/Electron (Chrome e similares). Novo: atalho para abrir um painel rápido com as últimas transcrições — clique numa entrada para copiar o texto.]]></description>
-      <pubDate>Sat, 27 Jun 2026 17:27:36 +0000</pubDate>
-      <sparkle:version>0.1.62</sparkle:version>
-      <sparkle:shortVersionString>0.1.62</sparkle:shortVersionString>
+      <title>OMNI Voice 0.1.63</title>
+      <description><![CDATA[Restaura o equalizador de voz em tempo real no HUD de gravação. Mantém a colagem automática corrigida (volta a colar sozinho em apps web/Electron) e adiciona o painel rápido de transcrições recentes (atalho configurável em Atalhos → Ações).]]></description>
+      <pubDate>Sat, 27 Jun 2026 18:13:10 +0000</pubDate>
+      <sparkle:version>0.1.63</sparkle:version>
+      <sparkle:shortVersionString>0.1.63</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <enclosure
-        url="https://github.com/InovacaoRD/omni_voice_dist/releases/download/v0.1.62/OMNI.Voice.dmg"
-        sparkle:edSignature="SkB/DBFAzN2Cjn3UETNOuiw3z6jK5b4tDLhIJVaz7XdNfnzeq2FO8+Q6S9KxoJ7xjsTnWU78UJ2R4S2RdZ3lDA=="
-        length="27281451"
+        url="https://github.com/InovacaoRD/omni_voice_dist/releases/download/v0.1.63/OMNI.Voice.dmg"
+        sparkle:edSignature="rzInx+RNbQv0EeRpB1wGDl4GoLDCyak3tEXot0sL8pbMfyQcStkvSUsxv5zQQf6+KOXoo+HyGmXIZkdK9w/gAQ=="
+        length="27306217"
         type="application/octet-stream" />
     </item>
   </channel>
